@@ -833,6 +833,7 @@ header nav .serch i {
     border: 1px solid white;
     border-right: none;
     padding: 20px 10px 20px 50px;
+    color: white;
 }
 .subscribe form ::placeholder {
     color: white;
@@ -965,9 +966,6 @@ header nav .serch i {
     text-transform: uppercase;
     padding: 20px;
     border-bottom: 1px solid;
-}
-.footer .container .social {
-
 }
 .footer .container .social i {
     padding: 10px 15px;
